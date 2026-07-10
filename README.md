@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/dimplepatel4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimplepatel4" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages: Python | Java | C++ | C# | SQL | HTML/CSS/Javascript </h3>
+<h3 align="left">Languages: Python | R | SQL | Java | C++ | C# | HTML/CSS/Javascript/Typescript </h3>
 <h3 align="left">Frameworks & Tools: React | Angular | Node.js | .NET | Snowflake | PowerBI</h3>
 <h3 align="left">Other: Git | REST APIs | Figma | VSCode | Unreal Engine</h3>
 
